@@ -50,7 +50,7 @@ how the same underlying loan can behave under different conditions.
 
 ## Results
 
-[dashboard screenshot]
+the dashboard screenshot (in the screenshots folder) shows the final design that allows user to analyze the amortization process in one place.
 
 ## Key Features
 
